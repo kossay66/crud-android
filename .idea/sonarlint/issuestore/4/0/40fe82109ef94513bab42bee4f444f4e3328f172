@@ -1,0 +1,18 @@
+
+`	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+€
+java:S1319"jThe type of "clientList" should be an interface such as "List" rather than the implementation "ArrayList".(µ‘şß
+{
+java:S13194"eThe type of "liste" should be an interface such as "List" rather than the implementation "ArrayList".(ı§ó¼
+]
+java:S1659?"BDeclare "phone" and all following declarations on a separate line.(Ëíıÿşÿÿÿÿ
+?
+java:S1659@"$Declare "delete" on a separate line.(ÖÚëªûÿÿÿÿ
+B
+java:S1602]",Remove useless curly braces around statement(š×ĞÔ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(êÕºó
+G
+java:S1602a",Remove useless curly braces around statement(°‚˜§üÿÿÿÿ
+V	java:S125c"<This block of commented-out lines of code should be removed.(¹âµııÿÿÿÿ
+t
+java:S2142j"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
